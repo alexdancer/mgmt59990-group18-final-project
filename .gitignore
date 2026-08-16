@@ -1,0 +1,23 @@
+.DS_Store
+.env
+.venv/
+.pytest_cache/
+**/__pycache__/
+*.py[cod]
+
+# Raw and transformed datasets are intentionally excluded from GitHub.
+data/
+*.jsonl
+*.parquet
+
+# Local execution output and temporary files.
+tmp/
+.tmp/
+.work/
+artifacts/
+*.log
+
+# Serialized models are reproducible but not portable or safe to load blindly.
+*.joblib
+*.pkl
+*.tar.gz

@@ -1,0 +1,16 @@
+{
+  "target": "low_rating = 1 when rating <= 2",
+  "model": "TF-IDF word unigrams/bigrams with class-weighted logistic regression",
+  "threshold_selected_on_validation": 0.62,
+  "test_rows": 6436,
+  "accuracy": 0.934897,
+  "precision": 0.785995,
+  "recall": 0.871728,
+  "f1": 0.826645,
+  "roc_auc": 0.975743,
+  "majority_class_baseline_accuracy": 0.821939,
+  "true_negative": 5018,
+  "false_positive": 272,
+  "false_negative": 147,
+  "true_positive": 999
+}

@@ -1,0 +1,13 @@
+{
+  "athena_gold_workgroup_scan_cutoff_bytes": 268435456,
+  "sagemaker_instance_type": "ml.m5.xlarge",
+  "sagemaker_instance_count": 1,
+  "sagemaker_volume_gb": 20,
+  "sagemaker_max_runtime_seconds": 1800,
+  "sagemaker_training_time_seconds": 89,
+  "sagemaker_billable_time_seconds": 89,
+  "persistent_sagemaker_endpoint_created": false,
+  "quicksight_import_mode": "SPICE",
+  "quicksight_dataset_count": 3,
+  "quicksight_subscription_requires_post_submission_review": true
+}
