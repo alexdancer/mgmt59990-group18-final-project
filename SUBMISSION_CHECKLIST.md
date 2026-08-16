@@ -19,6 +19,6 @@
 - [ ] Confirm the group/member attribution desired in the README and report
 - [ ] Run the test suite in an environment with the development requirements installed
 - [ ] Review every public evidence file for personally identifying or course-restricted information
-- [ ] Create the private `alexdancer/mgmt59990-group18-final-project` repository
+- [x] Create the private `alexdancer/mgmt59990-group18-final-project` repository
 - [ ] Push the reviewed package and verify every relative link on GitHub
 - [ ] Add the working GitHub URL to the final report or Brightspace comments
